@@ -53,7 +53,7 @@ Follow these steps to run the project locally.
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/your-username/fitness-x.git](https://github.com/your-username/fitness-x.git)
+    git clone https://github.com/ZeeshanAhmad678/fitnessX-app.git
     cd fitness-x
     ```
 
@@ -103,5 +103,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Developed by:** [Your Name]  
-**Reg No:** [Your Registration Number]
+**Developed by:** Zeeshan Ahmad and Saqib Shahab
+
