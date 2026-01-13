@@ -34,9 +34,9 @@
 
 | Home Screen | Activity Tracker | Onboarding |
 |:---:|:---:|:---:|
-| <img src="assets/screenshots/home.png" width="200" /> | <img src="assets/screenshots/activity.png" width="200" /> | <img src="assets/screenshots/login.png" width="200" /> | <img src="assets/screenshots/profile.png" width="200" />
+| <img src="assets/screenshots/home.jpeg" width="200" /> | <img src="assets/screenshots/activity.jpeg" width="200" /> | <img src="assets/screenshots/login.jpeg" width="200" /> | <img src="assets/screenshots/profile.jpeg" width="200" />
 
-*(Note: Add your actual screenshots to an `assets/screenshots` folder in your repo to make them visible here)*
+
 
 ---
 
