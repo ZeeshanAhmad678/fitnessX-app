@@ -1,0 +1,59 @@
+name: fitness_app
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # State Management
+  flutter_riverpod: ^3.0.3
+  # Navigation
+  go_router: ^17.0.0
+  # Backend - Firebase
+  firebase_core: ^4.2.1
+  firebase_auth: ^6.1.2
+  cloud_firestore: ^6.1.0
+  # UI Utilities
+  google_fonts: ^6.3.3
+  fl_chart: ^1.1.1 # For the activity graphs
+  percent_indicator: ^4.2.3 # For progress circles
+  smooth_page_indicator: ^1.1.0 # For onboarding dots
+  flutter_svg: ^2.0.9
+  # Utils
+  shared_preferences: ^2.2.2
+  intl: ^0.20.2
+  http: ^1.2.0
+  image_picker: ^1.0.7
+  dtd: ^4.0.0
+  flutter_lints: ^6.0.0
+  json_rpc_2: ^4.0.0
+  path: ^1.9.1
+  stack_trace: ^1.12.1
+  url_launcher: ^6.3.2
+  web: ^1.1.1
+  pedometer: ^4.0.0          # To listen to the step sensor
+  permission_handler: ^11.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1  
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
+
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icons/icon.png" 
+  min_sdk_android: 21
+  adaptive_icon_background: "#FFFFFF"  
+  adaptive_icon_foreground: "assets/icons/icon.png"
