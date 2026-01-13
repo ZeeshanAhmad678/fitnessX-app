@@ -32,10 +32,9 @@
 
 ## 📸 Screenshots
 
-| Home Screen | Activity Tracker | Onboarding |
-|:---:|:---:|:---:|
-| <img src="fitness_app/assets/screenshots/home.jpeg" width="200" /> | <img src="assets/screenshots/activity.jpeg" width="200" /> | <img src="assets/screenshots/login.jpeg" width="200" /> | <img src="assets/screenshots/profile.jpeg" width="200" />
-
+| Home Screen | Activity Tracker | Onboarding | Profile
+|:---:|:---:|:---:|:---:|
+| <img src="fitness_app/assets/screenshots/home.jpeg" width="200" /> | <img src="fitness_app/assets/screenshots/activity.jpeg" width="200" /> | <img src="fitness_app/assets/screenshots/login.jpeg" width="200" /> | <img src="fitness_app/assets/screenshots/profile.jpeg" width="200" />
 
 
 ---
