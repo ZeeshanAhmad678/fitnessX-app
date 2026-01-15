@@ -4,18 +4,15 @@ import 'package:http/http.dart' as http;
 
 class CloudinaryService {
   // 1. CONFIGURATION
-  // Replace these with your actual values from Cloudinary Dashboard
   final String cloudName = "dnhbv4luv"; 
-  final String uploadPreset = "fitness_user_upload"; // Created in Phase 1
+  final String uploadPreset = "fitness_user_upload"; 
 
   // 2. UPLOAD FUNCTION
-  // Equivalent to the "uploadOnCloudinary" function in your Node.js code
   Future<String?> uploadImage(File? imageFile) async {
     if (imageFile == null) return null;
 
     try {
-      // Create the POST request URL
-      // Insight: https://api.cloudinary.com/v1_1/<cloud_name>/image/upload
+      // POST request URL
       final url = Uri.parse("https://api.cloudinary.com/v1_1/$cloudName/image/upload");
 
       // Prepare the request
