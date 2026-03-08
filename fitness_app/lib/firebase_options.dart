@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC84aq17ifDBqQve7LxVcrfQvt3PV9TGNE',
+    apiKey: 'YOUR API KEY',
     appId: '1:220692921472:ios:fc1b751aa87fdef054ba65',
     messagingSenderId: '220692921472',
     projectId: 'fitness-app-dfa39',
@@ -67,7 +67,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyC84aq17ifDBqQve7LxVcrfQvt3PV9TGNE',
+    apiKey: 'YOUR API KEY',
     appId: '1:220692921472:ios:fc1b751aa87fdef054ba65',
     messagingSenderId: '220692921472',
     projectId: 'fitness-app-dfa39',
@@ -76,7 +76,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBR6ojDWXQjRW6wcmNu7P53ckDoIXlEZs8',
+    apiKey: 'YOUR API KEY',
     appId: '1:220692921472:web:c3b2114997ce382354ba65',
     messagingSenderId: '220692921472',
     projectId: 'fitness-app-dfa39',
